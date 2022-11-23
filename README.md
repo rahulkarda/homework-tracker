@@ -4,7 +4,7 @@ This is a homework tracker for the <a href="#" target="_blank">#Learn Together t
 
 **Link to live tracker:** <a href="https://rahulkarda.github.io/homework-tracker/" target="_blank">Homework tracker</a>
 
-
+Image of the Homework Tracker
 ![Image of the homework tracker]()
 
 ## How It's Made:
